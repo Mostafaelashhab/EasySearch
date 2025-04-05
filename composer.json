@@ -23,6 +23,6 @@
       "url": "https://github.com/mostafaelashhab/easy-search"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true
 }
