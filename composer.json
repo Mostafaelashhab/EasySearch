@@ -16,5 +16,7 @@
                 "Mostafaelashhab\\EasySearch\\SearchServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
