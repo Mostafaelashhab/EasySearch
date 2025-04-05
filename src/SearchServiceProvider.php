@@ -1,6 +1,6 @@
 <?php
 
-namespace EasySearch\SearchPackage;
+namespace EasySearch\src;
 
 use Illuminate\Support\ServiceProvider;
 
