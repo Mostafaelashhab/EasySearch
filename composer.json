@@ -1,22 +1,22 @@
 {
-    "name": "mostafaelashhab/easy-search",
-    "description": "A custom search package for Laravel",
-    "autoload": {
-        "psr-4": {
-            "Mostafaelashhab\\EasySearch\\": "src/"
-        }
-    },
-    "require": {
-        "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Mostafaelashhab\\EasySearch\\src\\SearchServiceProvider"
-            ]
-        }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+  "name": "mostafaelashhab/easy-search",
+  "description": "A custom search package for Laravel",
+  "autoload": {
+    "psr-4": {
+      "Mostafaelashhab\\EasySearch\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Mostafaelashhab\\EasySearch\\SearchServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
