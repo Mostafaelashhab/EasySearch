@@ -1,5 +1,5 @@
 {
-    "name": "Mostafaelashhab/EasySearch",
+    "name": "mostafaelashhab/easy-search",
     "description": "A custom search package for Laravel",
     "autoload": {
         "psr-4": {
