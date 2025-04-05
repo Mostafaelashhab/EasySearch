@@ -1,5 +1,5 @@
 <?php
-namespace EasySearch\src;
+namespace Mostafaelashhab\EasySearch;
 
 use Illuminate\Database\Eloquent\Builder;
 

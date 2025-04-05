@@ -1,5 +1,6 @@
 <?php
 
+
 namespace Mostafaelashhab\EasySearch;
 
 use Illuminate\Support\ServiceProvider;
